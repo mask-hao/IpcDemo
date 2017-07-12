@@ -37,7 +37,8 @@
             />
 
         <activity android:name=".a_idl.BookManagerActivity" />
-        <activity android:name=".aidlpool.BinderPoolActivity"></activity>
+        <activity android:name=".aidlpool.BinderPoolActivity"/>
+
     </application>
 
 </manifest>
